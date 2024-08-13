@@ -14,3 +14,4 @@ const connection = new Sequelize({
 })
 
 module.exports = connection
+
